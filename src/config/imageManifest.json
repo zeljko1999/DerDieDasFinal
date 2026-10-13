@@ -1,0 +1,250 @@
+{
+  "logo": {
+    "width": 1692,
+    "height": 942,
+    "widths": [
+      400,
+      800,
+      1200,
+      1600
+    ],
+    "format": "png",
+    "fallbackWidth": 1600
+  },
+  "logoFooter": {
+    "width": 1680,
+    "height": 928,
+    "widths": [
+      400,
+      800,
+      1200,
+      1600
+    ],
+    "format": "png",
+    "fallbackWidth": 1600
+  },
+  "hero1": {
+    "width": 900,
+    "height": 616,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 900
+  },
+  "hero2": {
+    "width": 1199,
+    "height": 800,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1199
+  },
+  "about": {
+    "width": 1024,
+    "height": 683,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1024
+  },
+  "cardKurseviOdrasle": {
+    "width": 957,
+    "height": 638,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 957
+  },
+  "cardKurseviDjeca": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      400,
+      800,
+      1200,
+      1600
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1600
+  },
+  "cardIndividualniOdrasli": {
+    "width": 1200,
+    "height": 769,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1200
+  },
+  "cardIndividualniDjeca": {
+    "width": 2000,
+    "height": 1200,
+    "widths": [
+      400,
+      800,
+      1200,
+      1600
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1600
+  },
+  "avatarMarija": {
+    "width": 900,
+    "height": 1600,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 900
+  },
+  "avatarTamara": {
+    "width": 1080,
+    "height": 1080,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1080
+  },
+  "avatarDusko": {
+    "width": 1106,
+    "height": 1106,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1106
+  },
+  "avatarMirko": {
+    "width": 1272,
+    "height": 1272,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1272
+  },
+  "avatarVanja": {
+    "width": 1080,
+    "height": 1440,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1080
+  },
+  "heroKurseviOdrasle": {
+    "width": 1200,
+    "height": 727,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1200
+  },
+  "heroKurseviDjeca": {
+    "width": 1486,
+    "height": 978,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1486
+  },
+  "heroIndividualniOdrasli": {
+    "width": 1400,
+    "height": 933,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1400
+  },
+  "heroIndividualniDjeca": {
+    "width": 1200,
+    "height": 800,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1200
+  },
+  "heroIndividualniOnline": {
+    "width": 1000,
+    "height": 667,
+    "widths": [
+      400,
+      800
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1000
+  },
+  "heroOsd": {
+    "width": 528,
+    "height": 387,
+    "widths": [
+      400
+    ],
+    "format": "png",
+    "fallbackWidth": 528
+  },
+  "heroGoethe": {
+    "width": 1200,
+    "height": 562,
+    "widths": [
+      400,
+      800,
+      1200
+    ],
+    "format": "png",
+    "fallbackWidth": 1200
+  },
+  "osdSecondary": {
+    "width": 2560,
+    "height": 1707,
+    "widths": [
+      400,
+      800,
+      1200,
+      1600
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1600
+  },
+  "onlineSecondary": {
+    "width": 1920,
+    "height": 1302,
+    "widths": [
+      400,
+      800,
+      1200,
+      1600
+    ],
+    "format": "jpg",
+    "fallbackWidth": 1600
+  }
+}

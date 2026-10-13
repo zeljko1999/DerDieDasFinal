@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Testimonials slider ------------------------------------------------ */
+.custom-swiper {
+  position: relative;
+}
+
+.custom-swiper .swiper-pagination {
+  bottom: -10px;
+}
+
+.classic-speech-bubble {
+  position: relative;
+}
+
+.classic-speech-bubble:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px -5px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+/* Kartice recenzija jednake visine: bez ovoga slajdovi uzimaju visinu sadržaja,
+   pa avatari ispod mjehurića "skaču" iz reda u red. */
+.custom-swiper .swiper-wrapper {
+  align-items: stretch;
+}
+
+.custom-swiper .swiper-slide {
+  height: auto;
+  display: flex;
+}
